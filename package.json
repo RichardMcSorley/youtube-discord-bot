@@ -1,0 +1,24 @@
+{
+  "name": "youtube-bot",
+  "version": "1.0.0",
+  "description": "youtube-bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "youtube"
+  ],
+  "author": "Richard McSorley",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "dotenv": "^6.0.0",
+    "firebase-admin": "^5.13.1",
+    "firebase-queue": "^1.6.1",
+    "moment": "^2.22.2",
+    "numeral": "^2.0.6"
+  }
+}
